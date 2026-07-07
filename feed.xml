@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+  <channel>
+    <title>Triple Threat</title>
+    <link>https://triplethreat.ai</link>
+    <language>en-us</language>
+    <copyright>© 2026 Triple Threat. All rights reserved.</copyright>
+    <description>Three triplet brothers — Joey, Kelly, and Shawn Kercher — breaking down AI, business, and building the future. No filter. No fluff. Just real talk from operators who are building in real time.</description>
+    <itunes:summary>Three triplet brothers — Joey, Kelly, and Shawn Kercher — breaking down AI, business, and building the future. No filter. No fluff. Just real talk from operators who are building in real time.</itunes:summary>
+    <itunes:author>Joey, Kelly &amp; Shawn Kercher</itunes:author>
+    <itunes:owner>
+      <itunes:name>Joey Kercher</itunes:name>
+      <itunes:email>joey@hummingagent.ai</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://triplethreat.ai/logo.png"/>
+    <image>
+      <url>https://triplethreat.ai/logo.png</url>
+      <title>Triple Threat</title>
+      <link>https://triplethreat.ai</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+
+    <!-- EPISODE 2 -->
+    <item>
+      <title>Ep. 2 — The New Model Era: What Claude Fable 5 Means for Your Business</title>
+      <link>https://triplethreat.ai/episodes/episode-2</link>
+      <guid isPermaLink="false">triple-threat-ep2-2026-07-07</guid>
+      <pubDate>Mon, 07 Jul 2026 12:00:00 -0600</pubDate>
+      <description><![CDATA[
+        <p>The most capable AI ever made public just shipped — and the US government briefly pulled it for being too powerful. Joey, Kelly, and Shawn break down Claude Fable 5: what it actually does, when to use it, and what it means for your business today.</p>
+        <p>They also get into the real experience of running companies where half the team is AI — the automation wins, the bots that crash at the worst moment, and the tools they're replacing.</p>
+        <p><strong>What we cover:</strong></p>
+        <ul>
+          <li>Claude Fable 5 — the Mythos-class model, why the government pulled it, and whether it came back nerfed</li>
+          <li>How Kelly is using agents for SEO, outreach, and sales research at scale</li>
+          <li>Replacing $10K+/year SaaS tools by building your own</li>
+          <li>The real answer on AI data privacy</li>
+          <li>Running a company where half your team is AI — honest, messy truth</li>
+          <li>One thing to try this week: build something you've never built with Fable 5</li>
+        </ul>
+        <p><strong>Three brothers. Three perspectives. Zero filter.</strong></p>
+      ]]></description>
+      <itunes:summary>The most capable AI ever made public just shipped. Joey, Kelly, and Shawn break down Claude Fable 5, AI data privacy, running companies with AI employees, and more. Three brothers. Three perspectives. Zero filter.</itunes:summary>
+      <itunes:author>Joey, Kelly &amp; Shawn Kercher</itunes:author>
+      <itunes:image href="https://triplethreat.ai/logo.png"/>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure
+        url="https://triplethreat.ai/episodes/episode-2-final.mp3"
+        length="21495808"
+        type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
